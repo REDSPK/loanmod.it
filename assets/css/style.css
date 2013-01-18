@@ -1,0 +1,13 @@
+@import url('bootstrap.min.css');
+.header{margin-top: 50px;}
+.header li{border-bottom: 2px solid #364B41;margin-left: 4px;text-align: right;}
+.hup{margin-bottom: 1px;border-bottom-color: #EEE;}
+.hdown{margin-top: 2px; border-top-color: #EEE;}
+.b-right {border-right: 2px solid #EEE;padding-right: 20px;}
+.media p{width: 300px;margin-top: 10px;}
+.hero-unit {background-color: white;}
+.hero-unit p{width: 600px;margin-left: 200px; font-size: 28px;}
+.login li{background-color: black;margin-left: 8px;}
+.login a{color: white;}
+.login li:hover { background-color:#eee; }
+.login a:hover { color:black; }
