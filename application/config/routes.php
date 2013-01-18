@@ -38,8 +38,8 @@
 |
 */
 
-$route['default_controller'] = "welcome";
-$route['calculate-monthly-payment'] = 'loan/calculateMonthlyPayment';
+$route['default_controller'] = "main";
+//$route['calculate-monthly-payment'] = 'loan/calculateMonthlyPayment';
 $route['404_override'] = '';
 
 

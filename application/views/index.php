@@ -26,7 +26,7 @@
 	<h1>Welcome to Mortgage Calculator</h1>
         
 	<div id="body">
-            <form method="POST" action="index.php/loan/calculateMonthlyPayment">
+            <form method="POST" action="index.php/loan/calculateMonthlyPayment" class=".form-horizontal">
                 Amount : <input name="loan-amount" type="text" /><br/>
                 Duration : <input name="loan-duration" type="text" /> (years)<br/>
                 Interest Rate : <input name="interest-rate" type="text" /><br/>
